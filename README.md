@@ -8,9 +8,9 @@ Olá, Jade aqui!!
    <div align="center">
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Jade-Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Jade-Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Jade-Jenkins" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Jade-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Jade-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img align="center" alt="Jade-IDEA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
 </div>
 <br>
 <div> 
