@@ -14,6 +14,11 @@ Meu nome é Jadeilton mais conhecido como Jade, sou desenvolvedor Java e estudan
 <img align="center" alt="Jade-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jade-Feing" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+   <img align="center" alt="Jade-Mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg">
+    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg">
+    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg">
+
 
 
 </div>
