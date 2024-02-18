@@ -17,7 +17,8 @@ Meu nome é Jadeilton mais conhecido como Jade, sou desenvolvedor Java e estudan
    <img align="center" alt="Jade-Mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg">
     <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg">
+    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
 
 
 
