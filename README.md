@@ -25,6 +25,12 @@ Meu nome é Jadeilton mais conhecido como Jade, sou desenvolvedor Java e estudan
     <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
     <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
     <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
+    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line-wordmark.svg">
+        <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg">
+         <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+          <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-plain.svg">
+          <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+
 
 
 
