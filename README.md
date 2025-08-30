@@ -1,47 +1,56 @@
+<!-- Banner de apresentação -->
+<h1 align="center">👋 Olá, eu sou Jadeilton de Almeida</h1>
+<h3 align="center">Desenvolvedor Java | AWS | Angular | Spring | Docker</h3>
 
-<div align="center">
+---
 
-  <a href="https://github.com/jadeilton21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadeilton21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeilton21&layout=compact&langs_count=7&theme=dark"/>
-</div>
-   <div align="center">
+## 🚀 Sobre mim
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+📌 Apaixonado por **Cloud, Microservices e Arquitetura escalável**  
+☁️ Certificações AWS:  
+- AWS Cloud Practitioner  
+- AWS AI Practitioner  
+- AWS Developer (em andamento ✅)  
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Jade-Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
-  <img align="center" alt="Jade-Jenkins" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-<img align="center" alt="Jade-IDEA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
-<img align="center" alt="Jade-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Jade-Feing" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-   <img align="center" alt="Jade-Mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-   <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
-    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-line-wordmark.svg">
-        <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg">
-         <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-          <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-plain.svg">
-          <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-          <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
-                    <img align="center" alt="Jade-Windows" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+---
 
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jadeilton21&show_icons=true&theme=radical" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeilton21&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</p>
 
+---
 
+## 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
+---
 
-</div>
-<br>
-<div> 
-  <a href = "mailto:Jadeiltondm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jadeilton-de-almeida-79b7b9236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 🎥 Meu Dia a Dia
+<p align="center">
+  <a href="https://github.com/jadeilton21/diadia.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
+---
 
-</div>
+## 📫 Conecte-se comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/jadeilton21/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jadeilton21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
