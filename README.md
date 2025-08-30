@@ -10,16 +10,15 @@
 ☁️ Certificações AWS:  
 - AWS Cloud Practitioner  
 - AWS AI Practitioner  
-- AWS Developer (em andamento ✅)  
+- AWS Developer
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadeilton21&show_icons=true&theme=radical" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeilton21&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadeilton21&show_icons=true&theme=gruvbox&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeilton21&layout=compact&theme=gruvbox&title_color=00FF00&text_color=00FF00" alt="Linguagens Mais Usadas" />
 </p>
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -34,7 +33,7 @@
 
 ---
 
-## 🎥 Meu Dia a Dia
+## 
 <p align="center">
   <a href="https://github.com/jadeilton21/diadia.mp4">
     <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -45,7 +44,7 @@
 
 ## 📫 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/jadeilton21/">
+  <a href="https://github.com/jadeilton21/jadeilton21/blob/main/diadia.mp4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jadeilton21@gmail.com">
