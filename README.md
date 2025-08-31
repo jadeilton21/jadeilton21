@@ -34,16 +34,15 @@
 ---
 
 <p align="center">
-  <a href="./diadia.mp4">
-    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-%2300FF00?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github.com/jadeilton21/jadeilton21/blob/main/diadia.mp4"" width="400px" alt="commit gif looping" />
 </p>
+
 
 ---
 
 ## 📫 Conecte-se comigo
 <p align="center">
-  <a href="https://github.com/jadeilton21/jadeilton21/blob/main/diadia.mp4">
+  <a href="https://www.linkedin.com/in/jadeilton-de-almeida-79b7b9236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jadeilton21@gmail.com">
