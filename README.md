@@ -33,11 +33,8 @@
 
 ---
 
-## 
 <p align="center">
-  <a href="https://github.com/jadeilton21/diadia.mp4">
-    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <video src="./diadia.mp4" controls width="500"></video>
 </p>
 
 ---
