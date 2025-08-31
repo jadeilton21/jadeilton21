@@ -34,7 +34,9 @@
 ---
 
 <p align="center">
-  <video src="./diadia.mp4" controls width="500"></video>
+  <a href="./diadia.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Assistir%20Vídeo-%2300FF00?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
