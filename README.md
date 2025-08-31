@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/jadeilton21/jadeilton21/blob/main/diadia.mp4"" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/jadeilton21/jadeilton21/blob/main/diadia.mp4" width="400px" alt="commit gif looping" />
 </p>
 
 
