@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+🎓 Formação em **Análise e Desenvolvimento de Sistemas**  
 📌 Apaixonado por **Cloud, Microservices e Arquitetura escalável**  
 ☁️ Certificações AWS:  
 - AWS Cloud Practitioner  
