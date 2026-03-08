@@ -1,87 +1,31 @@
-<h1 align="center">Jadeilton Almeida</h1>
+<h1 align="center">
+  🚀 Jadeilton Almeida
+</h1>
+
+<h3 align="center">
+  Java Backend Developer • AWS Certified • Cloud & Microservices
+</h3>
 
 <p align="center">
-Java Developer • AWS Certified • Cloud & Microservices • IoT
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&color=blue"/>
-<img src="https://img.shields.io/github/followers/SEUUSERNAME?style=social"/>
-<img src="https://img.shields.io/github/stars/SEUUSERNAME?style=social"/>
-</p>
-
----
-
-### 🚀 Sobre
-
-Desenvolvedor focado em **Java, Cloud Computing e Microservices**, com experiência em **AWS, IoT, Observabilidade e Arquitetura de Sistemas**.
-
-• 🎓 Análise e Desenvolvimento de Sistemas  
-• ☁️ AWS Certified (Cloud Practitioner + AI Practitioner)  
-• 🚀 Estudante **Ada Tech**  
-• 👨‍🏫 Ex-professor de Robótica / TI  
-• 🥋 Jiu-Jitsu • 🎵 Flautista  
-
----
-
-### 🧠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,angular,aws,docker,python,cpp,linux,git"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;AWS+Cloud+Engineer;Microservices+Architecture;IoT+Projects;Always+learning+new+technologies" />
 
 </p>
 
 ---
 
-### ☁️ AWS & Observability
-
-| Cloud | Messaging | Monitoring |
-|------|------|------|
-| AWS | SNS | CloudWatch |
-| Docker | SQS | CloudTrail |
-
----
-
-### 🚧 Projetos
-
-| Projeto | Descrição | Stack |
-|-------|-------|-------|
-| **Jade Pizza** | E-commerce para pizzaria baseado em microservices | Java • Spring • Angular • AWS |
-| **IoT Smart Climate** | Automação inteligente de ar-condicionado | IoT • Sensores • Cloud |
-| **MMORPG Server** | Servidor estilo Tibia 10.98 | C++ • Networking |
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ada-Tech-Program-blueviolet?style=for-the-badge"/>
 
 </p>
 
 ---
 
-### 🔥 Streak
-
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,angular,aws,docker,python,cpp,git,linux&perline=6"/>
-</p>---
 
-### 🌎 Contato
-
-<p>
-
-<a href="https://www.linkedin.com/in/jadeilton-almeida-79b7b9236/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/jadeilton21">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,aws,docker,python,cpp,git,linux&theme=dark"/>
 
 </p>
