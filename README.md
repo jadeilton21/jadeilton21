@@ -67,21 +67,19 @@ Desenvolvedor focado em **Java, Cloud Computing e Microservices**, com experiên
 
 ### 🔥 Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=tokyonight"/>
-</p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night"/>
 ---
 
 ### 🌎 Contato
 
 <p>
 
-<a href="LINKEDIN">
+<a href="https://www.linkedin.com/in/jadeilton-almeida-79b7b9236/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/SEUUSERNAME">
+<a href="https://github.com/jadeilton21">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
