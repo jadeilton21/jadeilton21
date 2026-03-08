@@ -12,18 +12,23 @@
 
 # 👨‍💻 About Me
 
-🎓 Graduate in **Analysis and Systems Development**  
-☁️ **AWS Certified Cloud Practitioner**  
-🤖 **AWS AI Practitioner**  
-🚀 Student at **Ada Tech**  
+🎓 Graduate in **Analysis and Systems Development**
 
-💻 Backend developer focused on **Java, Cloud and Microservices**.
+☁️ **AWS Certified**
+- Cloud Practitioner
+- AI Practitioner
+- **Developer Associate**
 
-Also experienced with:
+🚀 Student at **Ada Tech**
 
-- IoT projects  
-- Robotics teaching  
-- IT infrastructure  
+💻 Backend developer focused on **Java, Cloud and Microservices**
+
+Experience with:
+
+- Cloud Architecture
+- IoT Systems
+- Robotics Teaching
+- IT Infrastructure
 
 ---
 
@@ -39,34 +44,21 @@ Also experienced with:
 
 # 🚀 Featured Projects
 
-### 🍕 Jade Pizza
-Microservices e-commerce platform for pizzerias.
+<div align="center">
 
-**Stack**
+<a href="#">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=jade-pizza&theme=tokyonight"/>
+</a>
 
-Java • Spring Boot • Angular • Docker • AWS
+<a href="#">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=iot-smart-climate&theme=tokyonight"/>
+</a>
 
----
+<a href="#">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=mmorpg-server&theme=tokyonight"/>
+</a>
 
-### 🌡️ IoT Smart Climate
-
-Automation system for air conditioning using:
-
-- temperature sensors
-- humidity sensors
-- presence detection
-
-Goal: reduce energy consumption by **up to 40%**.
-
----
-
-### 🎮 MMORPG Server
-
-Game server inspired by Tibia.
-
-**Stack**
-
-C++ • Networking • Game Server Architecture
+</div>
 
 ---
 
@@ -74,17 +66,11 @@ C++ • Networking • Game Server Architecture
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night"/>
 
 ---
 
@@ -92,7 +78,7 @@ C++ • Networking • Game Server Architecture
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
 </div>
 
@@ -106,7 +92,7 @@ C++ • Networking • Game Server Architecture
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="LINKEDIN">
+<a href="SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
