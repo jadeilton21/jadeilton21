@@ -68,8 +68,9 @@ Desenvolvedor focado em **Java, Cloud Computing e Microservices**, com experiên
 ### 🔥 Streak
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night"/>
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,angular,aws,docker,python,cpp,git,linux&perline=6"/>
+</p>---
 
 ### 🌎 Contato
 
