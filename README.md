@@ -42,20 +42,16 @@ Experience with:
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="#">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=jade-pizza&theme=tokyonight"/>
+<a href="https://github.com/jadeilton21/imb-servico-front-and-landing-page">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=jadeilton21&repo=REPOSITORIO1&theme=tokyonight"/>
 </a>
 
-<a href="#">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=iot-smart-climate&theme=tokyonight"/>
-</a>
-
-<a href="#">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=mmorpg-server&theme=tokyonight"/>
+<a href="https://github.com/jadeilton21/linkTree-jadeilton">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=jadeilton21&repo=REPOSITORIO2&theme=tokyonight"/>
 </a>
 
 </div>
@@ -68,7 +64,7 @@ Experience with:
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jadeilton21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeilton21&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
