@@ -40,7 +40,7 @@ Experience with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,react,go,aws,docker,python,cpp,git,linux&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,go,aws,docker,python,cpp,git&perline=5"/>
 </div>
 
 ---
