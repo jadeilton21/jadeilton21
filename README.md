@@ -88,11 +88,11 @@ Experience with:
 
 <div align="center">
 
-<a href="https://github.com/SEUUSERNAME">
+<a href="https://github.com/jadeilton21">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/jadeilton-almeida-79b7b9236/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
