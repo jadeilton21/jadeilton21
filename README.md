@@ -17,18 +17,22 @@
 ☁️ **AWS Certified**
 - Cloud Practitioner
 - AI Practitioner
-- **Developer Associate**
+- Developer Associate
 
 🚀 Student at **Ada Tech**
 
-💻 Backend developer focused on **Java, Cloud and Microservices**
+💻 Backend developer focused on:
+
+- Java
+- Spring Boot
+- Cloud Architecture
+- Microservices
 
 Experience with:
 
-- Cloud Architecture
-- IoT Systems
-- Robotics Teaching
-- IT Infrastructure
+- IoT systems
+- Robotics teaching
+- IT infrastructure
 
 ---
 
@@ -42,29 +46,25 @@ Experience with:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/jadeilton21/imb-servico-front-and-landing-page">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=jadeilton21&repo=REPOSITORIO1&theme=tokyonight"/>
-</a>
+### 🍕 Jade Pizza
+Microservices e-commerce platform for pizzerias  
+Java • Spring Boot • Angular • Docker • AWS
 
-<a href="https://github.com/jadeilton21/linkTree-jadeilton">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=jadeilton21&repo=REPOSITORIO2&theme=tokyonight"/>
-</a>
+<br>
 
-</div>
+### 🌡️ IoT Smart Climate
+Automation system for air conditioning using sensors  
+Energy optimization and smart environment control
 
----
+<br>
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jadeilton21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeilton21&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🎮 MMORPG Server
+Game server inspired by Tibia architecture  
+C++ • Networking • Game Server Design
 
 </div>
 
@@ -72,11 +72,12 @@ Experience with:
 
 # 🏆 Achievements
 
-<div align="center">
+☁️ AWS Certified Cloud Practitioner  
+🤖 AWS AI Practitioner  
+👨‍💻 AWS Developer Associate  
 
-<img src="https://github-profile-trophy.vercel.app/?username=jadeilton21&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
+🎓 Analysis and Systems Development Graduate  
+🚀 Ada Tech Program Student  
 
 ---
 
@@ -84,11 +85,11 @@ Experience with:
 
 <div align="center">
 
-<a href="https://github.com/jadeilton21">
+<a href="https://github.com">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jadeilton-almeida-79b7b9236/">
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
