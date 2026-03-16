@@ -47,13 +47,6 @@ Experience with:
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-### 🍕 Jade Pizza
-Microservices e-commerce platform for pizzerias  
-Java • Spring Boot • Angular • Docker • AWS
-
-<br>
 
 ### 🌡️ IoT Smart Climate
 Automation system for air conditioning using sensors  
