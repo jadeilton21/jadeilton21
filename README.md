@@ -48,11 +48,6 @@ Experience with:
 # 🚀 Featured Projects
 
 
-### 🌡️ IoT Smart Climate
-Automation system for air conditioning using sensors  
-Energy optimization and smart environment control
-
-
 
 # 🏆 Achievements
 
