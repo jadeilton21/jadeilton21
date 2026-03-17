@@ -45,10 +45,6 @@ Experience with:
 
 ---
 
-# 🚀 Featured Projects
-
-
-
 # 🏆 Achievements
 
 ☁️ AWS Certified Cloud Practitioner  
