@@ -52,15 +52,7 @@ Experience with:
 Automation system for air conditioning using sensors  
 Energy optimization and smart environment control
 
-<br>
 
-### 🎮 MMORPG Server
-Game server inspired by Tibia architecture  
-C++ • Networking • Game Server Design
-
-</div>
-
----
 
 # 🏆 Achievements
 
