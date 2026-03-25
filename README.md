@@ -45,17 +45,6 @@ Experience with:
 
 ---
 
-# 🏆 Achievements
-
-☁️ AWS Certified Cloud Practitioner  
-🤖 AWS AI Practitioner  
-👨‍💻 AWS Developer Associate  
-
-🎓 Analysis and Systems Development Graduate  
-🚀 Ada Tech Program Student  
-
----
-
 # 🌎 Connect with Me
 
 <div align="center">
