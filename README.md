@@ -17,7 +17,8 @@
 ☁️ **AWS Certified**
 - Cloud Practitioner
 - AI Practitioner
-- Developer Associate
+- Developer - Associate
+- Solutions Architect - Associate
 
 🚀 Student at **Ada Tech**
 
