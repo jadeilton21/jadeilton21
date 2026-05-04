@@ -19,6 +19,7 @@
 - AI Practitioner
 - Developer - Associate
 - Solutions Architect - Associate
+- CloudOps Engineer - Associate
 
 🚀 Student at **Ada Tech**
 
